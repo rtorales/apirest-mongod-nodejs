@@ -1,5 +1,5 @@
 'use strict'
-//importar librerias
+//importar librerias necesarias
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
